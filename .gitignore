@@ -1,0 +1,17 @@
+# 模型权重（太大，不上传）
+sd_model/
+
+# 生成的图片（临时文件）
+assets/*.png
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# IDE配置
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
